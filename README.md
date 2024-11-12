@@ -23,8 +23,8 @@ Endpoints
 
 The following endpoints are available for managing employees:
 
-POST    /employees/add    Create a new employee
-GET	    /employees	      Retrieve all employees
-GET	    /employees/{id}	  Retrieve employee by ID
-PUT	    /employees/{id}	  Update employee by ID
-DELETE	/employees/{id}	  Delete employee by ID
+POST    /employees/add    Create a new employee <br /> 
+GET	    /employees	      Retrieve all employees <br /> 
+GET	    /employees/{id}	  Retrieve employee by ID <br /> 
+PUT	    /employees/{id}	  Update employee by ID <br /> 
+DELETE	/employees/{id}	  Delete employee by ID <br /> 
