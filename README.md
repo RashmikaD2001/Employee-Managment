@@ -22,9 +22,9 @@ Technologies Used
 Endpoints
 
 The following endpoints are available for managing employees:
-HTTP Method	Endpoint	Description
-POST	/employees/add	Create a new employee
-GET	/employees	Retrieve all employees
-GET	/employees/{id}	Retrieve employee by ID
-PUT	/employees/{id}	Update employee by ID
-DELETE	/employees/{id}	Delete employee by ID
+
+POST    /employees/add    Create a new employee
+GET	    /employees	      Retrieve all employees
+GET	    /employees/{id}	  Retrieve employee by ID
+PUT	    /employees/{id}	  Update employee by ID
+DELETE	/employees/{id}	  Delete employee by ID
