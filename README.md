@@ -18,11 +18,6 @@ Technologies Used
     Database: MySQL
     Architecture: Spring MVC
 
-
-Endpoints
-
-The following endpoints are available for managing employees:
-
 ## Endpoints
 
 The following endpoints are available for managing employees:
